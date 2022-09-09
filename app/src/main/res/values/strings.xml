@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bike Database</string>
+    <string-array name="timeOfDay">
+        <item>Main Block</item>
+        <item>Main Gate</item>
+        <item>Boys Hostel</item>
+
+    </string-array>
+</resources>
